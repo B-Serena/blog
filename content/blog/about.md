@@ -10,7 +10,7 @@ slug = "about"
 
 **Data Scientist | ML Engineer | Applied Mathematics & Statistics**
 
-📧 **[beyonxr@gmail.com]** | 🔗 **[LinkedIn](https://www.linkedin.com/in/seran-byun/)** | 🐙 **[GitHub](https://github.com/B-Serena)** | 🌐 **[Portfolio](https://gildong-hong.github.io/)**
+📧 **beyonxr@gmail.com** | 🔗 **[LinkedIn](https://www.linkedin.com/in/seran-byun/)** | 🐙 **[GitHub](https://github.com/B-Serena)** | 🌐 **[Portfolio](https://gildong-hong.github.io/)**
 
 ---
 
